@@ -12,6 +12,9 @@ When all questions are answered, the quiz will end, and the player can record th
 
 To check the ranking, the user can click "View Highscores". An order list shows the ranking according to the local storage's record. The player can also clear the storage by clicking "Clear Highscores".
 
+# Screenshot
+<img width="1434" alt="image" src="https://user-images.githubusercontent.com/117188356/223192032-5229db61-a9e0-42ab-84a3-b1e19e64262e.png">
+
 # Installation
 No installation is required.
 
